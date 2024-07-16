@@ -1,5 +1,5 @@
 ## About
-A Senior Full Stack Developer with 2+ years of experience, having a opportunity to work with cutting edge Cyber Security products, researching and building robust architecture for implementing seamless connection to backend technologies and development of frontend responsive UI/UX components. My passion for learning and researching new technology fuels my ongoing growth and expertise.
+A Senior Full Stack Developer having a opportunity to work with cutting edge Cyber Security products, researching and building robust architecture for implementing seamless connection to backend technologies and development of frontend responsive UI/UX components. My passion for learning and researching new technology fuels my ongoing growth and expertise.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-kumar-0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anand901657) 
